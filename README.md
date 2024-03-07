@@ -4,4 +4,4 @@ The game is still unfinished in terms of artwork, rulebooks, and balancing. Afte
 
 I'm currently a few hundred hours into the updated version of the game. We've done some playtesting, but it is still missing a few things. The main difference of this version is that players perform actions by playing cards from their hand. 
 
-The updated board and cards can be found at [https://github.com/rouloct/Legends-of-Myth](url).
+The updated board and cards can be found at [https://github.com/rouloct/Legends-of-Myth](https://github.com/rouloct/Legends-of-Myth).
