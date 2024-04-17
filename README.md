@@ -10,13 +10,13 @@ For privacy reasons, I'm not including the rulebook and many of the creatures he
 ## Design Process & Challenges
 I began creating this game in 2019 and finished in late 2022. I've spent around 300 hours designing and then playtesting this version with others. While I want to one day publish a board game, I'm ultimately making this game because it is fun. I love the creativity that goes into the design and the problem solving required to make the game balanced and fun.
 
-The version here is not the final one. I realized there were a few major gameplay issues that I couldn't just patch up with small changes-- specifically, strategy is calculation-heavy, not flexible, and predictable/repetitive between games.
+The version here is not the final one. I quickly realized that while it's easy to make a board game, it's hard to make a _good_ one. In this version, there were a few major gameplay issues that I couldn't just patch up with small changes-- specifically, strategy is calculation-heavy, not flexible, and predictable/repetitive between games. 
 
 So, I decided to go ahead and make a second version of the game, taking what I learned from this first version to make it even more enjoyable. I've spent at least 300 more hours since then, but still don't have a finished product.
 
-While making a _good_ board game has many technical challenges, the biggest one I faced has been personal. After playtesting a version of the game one or two times, I would find many things wrong with it, at least in my opinion. Instead of making a slight change and playtesting again, I would try to remake the entire game again, spending lots of time redesigning. Then the cycle would repeat after playtesting the new version a few times.
+The biggest challenge I've faced in updating the game has been my design approach. After playtesting a version of the game one or two times, I would find many things wrong with it, as expected. Instead of making a slight change and playtesting again, I would try to remake the entire game again, spending lots of time redesigning. Then the cycle would repeat after playtesting the new version a few times. This wasted lots of time and left me with many incomplete versions.
 
-I eventually got frustrated with myself and this pattern and took a break for the last half of 2023. I've revisited the game again this year, focusing on making small changes to the original version one step at a time. That said, the version here and all middle versions I've had _have_ been incredibly fun and rewarding. It's been a great outlet for creativity and problem solving (as well as slight artwork). I also enjoy showing the game to other people and discussing strategy and game mechanics with them. 
+I eventually got frustrated with myself and this pattern and took a break for the last half of 2023. I've revisited the game again this year, focusing on making small changes to the original version one step at a time. That said, the version here and all others versions I've made have been incredibly fun and rewarding. It's been a great outlet for creativity and problem solving and I've really enjoyed showing the game to other people and discussing strategy and game mechanics with them. 
 
 I'm hoping to spend some time this summer focusing on the game and hopefully have a published version within the next five years.
 
